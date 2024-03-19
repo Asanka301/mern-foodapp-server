@@ -1,0 +1,6 @@
+MONGODB_URI=mongodb+srv://mern-book-store:cBrGQb8XXbw0UVAz@cluster0.zmifsdp.mongodb.net/BookInventory?retryWrites=true&w=majority
+PORT = 5000
+
+ MONGODB_USER="mern-book-store"
+ MONGODB_PW="cBrGQb8XXbw0UVAz"
+
